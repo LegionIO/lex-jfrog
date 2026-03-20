@@ -8,6 +8,12 @@ JFrog integration for [LegionIO](https://github.com/LegionIO/LegionIO). Monolith
 gem install lex-jfrog
 ```
 
+Or add to your Gemfile:
+
+```ruby
+gem 'lex-jfrog'
+```
+
 ## Modules
 
 ### Artifactory (`Jfrog::Artifactory`)

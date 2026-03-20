@@ -10,7 +10,7 @@ Monolith Legion Extension connecting LegionIO to JFrog products. Currently imple
 
 **GitHub**: https://github.com/LegionIO/lex-jfrog
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.1
 
 ## Architecture
 
